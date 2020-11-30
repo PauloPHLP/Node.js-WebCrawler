@@ -1,16 +1,16 @@
-# 🖥️ Node.js WebScrapping
+# 🖥️ Node.js WebCrawler
 
 <h1 align="center">
   <img src=".github/logo.png" width="200px" />
 </h1>
 
 ## 🔎️ Description
-Simple Node.js application to test WebScrapping basic functionalities.
+Simple Node.js application to test WebCrawler basic functionalities.
 
 ## 🚀️ Technologies
 
 - Node.js
-- WebScrapping
+- WebCrawler
 - Puppeteer
 
 ---
